@@ -1,4 +1,4 @@
-![image](https://github.com/arleigh418/Automatic-IG-Like/tree/master/example/example.gif)
+![image](https://github.com/arleigh418/Automatic-IG-Like/blob/master/example/example.gif)
 
 
 
