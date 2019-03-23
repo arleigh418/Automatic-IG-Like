@@ -1,3 +1,10 @@
+![img]https://github.com/arleigh418/Automatic-IG-Like/tree/master/example/example.gif
+
+
+
+
+
+
 1.This project is based on selenium , you should download webdriver(Chrome) first.
 
 2.If IG upgrade , it may not work
