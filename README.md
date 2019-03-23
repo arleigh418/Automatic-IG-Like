@@ -1,6 +1,7 @@
-Show How It Work
+Show How It Work:
 
 ![image](https://github.com/arleigh418/Automatic-IG-Like/blob/master/example/example.gif)
+
 
 
 
