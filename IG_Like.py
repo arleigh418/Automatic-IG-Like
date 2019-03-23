@@ -39,7 +39,7 @@ except:
 # except:
 #     print('Login Error')
 
-#''''''''''''''''''''''''''''''''''''[=Here choose your Login way=]''''''''''''''''''''''''''''
+#''''''''''''''''''''''''''''''''''''[Here choose your Login way]''''''''''''''''''''''''''''
 
 
 driver.implicitly_wait(10)
