@@ -53,7 +53,7 @@ driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/article/div[2]/sectio
 time.sleep(1)
 driver.find_element_by_xpath("/html/body/div[2]/div[1]/div/div/a").click()
 
-for i in range(0,1000):  
+for i in range(0,10000):  
     try:
         driver.find_element_by_xpath("/html/body/div[2]/div[1]/div/div/a[2]").click()
         driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/article/div[2]/section[1]/span[1]/button").click()
