@@ -49,17 +49,17 @@ time_start=time.time()
 
 
 driver.find_element_by_xpath("//div[@class = '_9AhH0']").click()
-driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/article/div[2]/section[1]/span[1]/button").click()
+driver.find_element_by_xpath("/html/body/div[3]/div[2]/div/article/div[2]/section[1]/span[1]/button").click()
 time.sleep(1)
-driver.find_element_by_xpath("/html/body/div[2]/div[1]/div/div/a").click()
+driver.find_element_by_xpath("/html/body/div[3]/div[1]/div/div/a").click()
 
-for i in range(0,10000):  
+
+for i in range(0,1000):  
     try:
-        driver.find_element_by_xpath("/html/body/div[2]/div[1]/div/div/a[2]").click()
-        driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/article/div[2]/section[1]/span[1]/button").click()
+        driver.find_element_by_xpath("/html/body/div[3]/div[2]/div/article/div[2]/section[1]/span[1]/button").click()
+        driver.find_element_by_xpath("/html/body/div[3]/div[1]/div/div/a[2]").click()
         time.sleep(0.5)
     except:
         time_end=time.time()
         print('time cost',time_end-time_start,'s')
         break
-
