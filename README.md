@@ -17,4 +17,4 @@ Show How It Work:
 
 5.It may can't run,you need to update xpath or other label by yourself.
 
-*Notice : Please avoid any illegal actions and follow IG's policy.
+
